@@ -1,2 +1,2 @@
-#### Don't try to follow _technology_, stupid...!
+### Don't try to follow _technology_, stupid...!
 > **Patrick Shyu**
